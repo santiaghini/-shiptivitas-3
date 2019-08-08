@@ -10,4 +10,6 @@
 
 
 
-
+-- I TOOK A DIFFERENT APPROACH
+-- Instead of creating the queries myself, I made use of datapine.com.
+-- I uploaded the tables needed and with the platform generated the graphs and tables needed.
